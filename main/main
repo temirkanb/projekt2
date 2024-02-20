@@ -1,0 +1,3 @@
+print('Hello Sky Pro')
+int input('Введите пароль')
+import random
